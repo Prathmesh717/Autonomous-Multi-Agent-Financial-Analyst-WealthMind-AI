@@ -1,6 +1,6 @@
 # WealthMind AI
 
-[![CI](https://github.com/Prathmesh717/WealthMindAI-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Prathmesh717/WealthMindAI-ai-agent/actions/workflows/ci.yml)
+
 [![Python 3.11](https://img.shields.io/badge/python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-orchestration-1C3C3C)](https://langchain-ai.github.io/langgraph/)
