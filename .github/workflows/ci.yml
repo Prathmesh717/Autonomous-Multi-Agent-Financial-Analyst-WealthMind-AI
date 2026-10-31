@@ -1,4 +1,4 @@
-name: CI
+name: WealthMindAI CI
 
 on:
   push:
@@ -91,4 +91,4 @@ jobs:
         run: docker build -t dealflow-ai-agent:ci .
 
       - name: Smoke-check the image imports the app
-        run: docker run --rm dealflow-ai-agent:ci python -c "import app.main; print('image OK')"
+        run: docker run --rm WealthMindAI-ai-agent:ci python -c "import app.main; print('image OK')"
